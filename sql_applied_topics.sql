@@ -1,6 +1,3 @@
-
-    
-
 /* SQL Insert Statement
 
 Exercise: Select ten records from the “titles” table to get a better idea about its content.
